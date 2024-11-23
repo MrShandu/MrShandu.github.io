@@ -67,13 +67,13 @@ Being youtuber is really fun hobby and thets why im doing youtube. I love making
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>MrShandu</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2011</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Serbia</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Blue</dd>
 </dl>
 
 ```
