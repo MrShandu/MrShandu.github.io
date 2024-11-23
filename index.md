@@ -10,19 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# xfghxghcfgxfgdf
+# MrShandu-YT
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My youtube chanell is MrShandu 
 
-## dfgdfgdfgdfg
+## Instagram, Trovo, Facebook
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> I have intagram its name is MrShandu-YT 
+> I have trovo too its MrShandu-YT too
+> And ofc i have facebook MrShandu-YT
 
-### Header 3
+### YT life
 
-```js
+
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
