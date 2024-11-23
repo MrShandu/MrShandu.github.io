@@ -1,12 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -21,29 +12,13 @@ My youtube chanell is MrShandu
 > And ofc i have facebook MrShandu-YT
 
 ### YT life
-
-
-
+Being youtuber is really fun hobby and thets why im doing youtube. I love making toilet tower defense videos the most. I wish i can get partner there so i can sing units and be rich and cool.
 #### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
-1.  sfsdf
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
